@@ -1,6 +1,6 @@
 # ranwhen – Visualize when your system was running
 
-This repository is an extension of [this](https://github.com/p-e-w/ranwhen).
+The repository is an extension of [this](https://github.com/p-e-w/ranwhen).
 
 Ranwhen is a Python script that graphically shows **in your terminal** when your system was running in the past. It use logs about reboots and entry on suspend (or only about reboots if option -r have set). Have a look:
 
